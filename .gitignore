@@ -1,0 +1,14 @@
+solver
+*.o
+*.gif
+*.mp4
+*.webm
+*.bin
+output/
+sweep_kappa_*/
+sweep_results.csv
+scaling_analysis.png
+spectral_distribution.png
+detailed_analysis.png
+__pycache__/
+*.pyc
